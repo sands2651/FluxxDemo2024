@@ -4,7 +4,7 @@ public class Demoportal
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Welcome to Grantee Portal");
+		System.out.println("Welcome to Fluxx Grantee Portal");
 	}
 
 }
